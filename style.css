@@ -1,0 +1,44 @@
+#header {
+  background-image: url("https://res.cloudinary.com/gray-malin/image/upload/c_scale,w_600,q_80/gray-malin/products/waikiki-beach.jpg?updated=");
+  height: 230px;
+  width: 100%;
+}
+
+body {
+  background-color: rgb(53, 83, 136)
+}
+
+h1 {
+  font-size: 40px;
+  font-family: Lato;
+  text-align: center;
+  color: linen;
+}
+
+h2 {
+  font-size: 30px;
+  font-family: Lato;
+  text-align: left;
+  font-weight: lighter;
+  color: linen;
+}
+
+#abouttext {
+  font-size: 16px;
+  color: white;
+  font-weight: lighter;
+  font-family: Lato;
+  text-align: center;
+  display: block;
+  padding: 10px;
+}
+
+.hobbies {
+  font-size: 18px;
+  font-family: Lato;
+  text-align: left;
+  font-weight: normal;
+  color: white;
+  background-color: gray;
+  padding: 10px;
+}
